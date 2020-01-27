@@ -1,0 +1,13 @@
+setup.py
+goldmansachs_crawler/__init__.py
+goldmansachs_crawler/items.py
+goldmansachs_crawler/middlewares.py
+goldmansachs_crawler/pipelines.py
+goldmansachs_crawler/settings.py
+goldmansachs_crawler/spiders/__init__.py
+goldmansachs_crawler/spiders/crawler.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
